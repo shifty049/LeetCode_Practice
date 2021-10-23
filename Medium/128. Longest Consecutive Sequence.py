@@ -27,3 +27,8 @@ class Solution:
             ix += 1
         
         return max(mx, so_far)
+
+#Runtime: 288 ms, faster than 48.54% of Python3 online submissions for Longest Consecutive Sequence.
+#Memory Usage: 22.7 MB, less than 98.46% of Python3 online submissions for Longest Consecutive Sequence.
+#Fu-Ti, Hsu 
+#shifty049@gmail.com
